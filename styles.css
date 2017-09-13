@@ -1,0 +1,29 @@
+html {
+    background-image: url(background.jpg);
+}
+
+h1 {
+    color: white;
+    text-align: center
+}
+
+h2 {
+    color: gold;
+}
+
+p {
+    color: lightblue;
+}
+
+#pages {
+    display: inline-flex;
+}
+
+a {
+    color: orange;
+}
+
+table {
+    width: auto;
+    height: auto;
+}
