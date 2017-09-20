@@ -27,3 +27,10 @@ table {
     width: auto;
     height: auto;
 }
+#radioButtons {
+    color: white;
+}
+textarea {
+    width: 25%;
+    height: 40px;
+}
